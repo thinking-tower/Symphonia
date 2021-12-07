@@ -16,6 +16,7 @@ members = [
     "symphonia-format-wav",
     "symphonia-metadata",
     "symphonia-play",
+    "symphonia-test",
     "symphonia-utils-xiph",
     "symphonia-check",
 ]
